@@ -1,16 +1,4 @@
-# digital24analog
 
-A new Flutter project.
 
-## Getting Started
+https://user-images.githubusercontent.com/97171705/174664512-81e3ca1d-76bc-4f19-a684-e4629054ef4d.mp4
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
